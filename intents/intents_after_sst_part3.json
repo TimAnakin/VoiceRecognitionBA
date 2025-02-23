@@ -1,0 +1,141 @@
+{
+    "arbeitsmodus": [
+        "Aktivieren den Arbeitsmodus",
+        "Ich möchte den Arbeitsmodus starten",
+        "Startet bitte den Arbeitsmodus",
+        "Der Arbeitsmodus soll gestartet werden",
+        "Aktiviere bitte den Arbeitsmodus"
+    ],
+    "check_count_große_schraube": [
+        "Wie viele große Schrauben sind voran",
+        "Überprüfe viele große Schrauben noch vorhanden sind",
+        "Ich will wissen die viele große Schrauben noch da sind",
+        "Gibt mir die Anzahl an großen Schrauben",
+        "Ich möchte die Anzahl an großen Schrauben erfahren"
+    ],
+    "check_count_kleine_schraube": [
+        "Wie viele kleine Schrauben gibt es",
+        "Überprüfe wie viele kleine Schrauben noch vorhanden sind",
+        "Sie sind noch keine Schrauben vorhanden",
+        "Wie viele kleine Schrauben sind noch da",
+        "Sind noch kleine Schrauben vorhanden",
+        "Gibt mir die Anzahl einen kleinen Schroben"
+    ],
+    "check_count_oberteil": [
+        "Überprüfe die Anzahl an Oberteilen",
+        "Wie viele Oberteile hast du noch",
+        "Gibt mir die Anzahl an vorhandenen Oberthalen",
+        "Wie viele Oberteile gibt es noch"
+    ],
+    "check_count_spitze": [
+        "Wie viele Spitzen hast du noch",
+        "Welche Anzeilen Spitzen sind auch da",
+        "Wie viele Unterteile sind noch da",
+        "Check wie viele Unterteile noch vorhanden sind"
+    ],
+    "check_griff": [
+        "Prüfer ob der Griff da ist",
+        "Sieht noch guffe da",
+        "Hast du noch grüffeln",
+        "Ist noch ein Griff von",
+        "Hast es noch Oberteile"
+    ],
+    "check_große_schraube": [
+        "Gibt es noch große Schrauben",
+        "Sind auch große Schrauben von ",
+        "Hast du noch große Schrauben",
+        "Checker ob noch große Schrauben vorhanden sind",
+        "Ich möchte wissen ob es noch große Schrauben gibt"
+    ],
+    "check_kleine_schraube": [
+        "Wie viele kleine Schrauben sind noch übrig",
+        "Gibt es noch keine Schroben",
+        "Überprüfe wie viele kleine Schrauben noch da sind"
+    ],
+    "check_spitze": [
+        "Ist noch ein Spitz oder",
+        "Prüfer ob es noch unterteile gibt",
+        "Gibt es noch Spitzen",
+        "Hast du noch Spitzen"
+    ],
+    "drop_all": [
+        "Plaziere alle Objekte in die Alterung",
+        "Ach mach einmal alle Schröße",
+        "Start ein Durchlauf",
+        "Platz hier alle teilen die Halterung",
+        "Fügt alle Teile in die Haltrung"
+    ],
+    "drop_griff": [
+        "Sitzte den Griff in die Halterung",
+        "Kannst du den Griff in die Halterung setzen",
+        "Mit Laziere bitte den Griff in die Haltruung",
+        "Packt den Griff in die Mitte",
+        "Ich möchte das zu den Griff in die Halterung setzt"
+    ],
+    "drop_große_schraube": [
+        "Packen die große Schraube in die Halterung",
+        "Parklarziere die große Schraube in die Alterung",
+        "Setze bitte die große Schraube in die Haltrung",
+        "Packen die große Schraube in die Mitte",
+        "Bitte platziere die große Schraube in die Halterung"
+    ],
+    "drop_kleine_schraube": [
+        "Packet die kleine Schrobe in die Halterung",
+        "Platziere die kleine Schraube in die Haltruung",
+        "Sitzte die kleine Schraube in die Halterung",
+        "Ich möchte das du die keine Schraube in die Halterung pakt",
+        "Ich will das du die kleine Schraube in die Halterung setzt"
+    ],
+    "drop_spitze": [
+        "Pake die Spitze in die Alterung",
+        "Ich möchte das zu die Spitze in die Mitte setzt",
+        "Platziere die Spitze in die Halterung",
+        "Sätze die Spitze in die Halterung",
+        "Ich will das du die Spitze in die Halterung platzierst"
+    ],
+    "give_griff": [
+        "Ich möchte den Griff haben",
+        "Gibt mir den Griff",
+        "Reich mir den Griff",
+        "Ich will den Griff haben",
+        "Ich möchte ein bisschen den Griff haben"
+    ],
+    "give_große_schraube": [
+        "Ich will das zu mir eine große Schraube gibt",
+        "Gibt mir die große Schaube",
+        "Ich will die große Schaube haben",
+        "Kann es du mir die große Schraube geben",
+        "Reich mir die große Schraube"
+    ],
+    "give_kleine_schraube": [
+        "Ich brauche noch eine kleine Schraube",
+        "Ich benötige eine kleine Schrobe",
+        "Reich mir die keine Schrobe",
+        "Ich will eine kleine Schrobe haben"
+    ],
+    "give_tip_or_bottom": [
+        "Ich würde gerne das Unterteil haben",
+        "Bitte gehen wir die Spitze",
+        "Gibt mir das unterteil",
+        "Ich möchte die Spitze haben",
+        "Kannst du mir bitte die Spitze geben"
+    ],
+    "open_linken_greifer": [
+        "Öffne bitte den Link greife",
+        "Ich möchte dass du linken greifer öffnest",
+        "Öfter der Link greifer",
+        "Lasst das linken Objekt los",
+        "Lass links los"
+    ],
+    "open_rechten_greifer": [
+        "Öffne die rechte Seite",
+        "Öffte den rechten Gräufer",
+        "Ich möchte das für den rechten Greifer öffnest"
+    ],
+    "do_next_step": [
+        "Durch Schühe den ich will das du weiter machst",
+        "Mach er den nächsten Schritt",
+        "Nächsten Schritt für den nächsten Schritt aus",
+        "Mach weiter"
+    ]
+}

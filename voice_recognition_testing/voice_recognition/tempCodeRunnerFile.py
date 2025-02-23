@@ -1,0 +1,1 @@
+audio = recognizer.listen(source, timeout=7, phrase_time_limit=5)

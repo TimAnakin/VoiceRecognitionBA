@@ -1,0 +1,266 @@
+{
+    "arbeitsmodus": [
+        "Aktiviere bitte den Arbeitsmodus",
+        "Aktivieren bitte den Arbeitsmuros",
+        "Aktivieren den Arbeitsmodus",
+        "Aktiviertel den Arbeitsmuros",
+        "Bestehrte bitte den Arbeitsmuros",
+        "Der Arbeitsmodus soll gestartet werden",
+        "Der Arbeitsmuro soll gestartet werden",
+        "Der Arbeitsmutter soll gestartet werden",
+        "Ich möchte den Arbeitsmodus starten",
+        "Ich möchte den Arbeitsmodus starten",
+        "Ich möchte den Arbeitsmuro starten",
+        "Starte bitte den Arbeitsmodus",
+        "Startet bitte den Arbeitsmodus"
+    ],
+    "check_count_große_schraube": [
+        "Gibt mir die Anzahl an großen Schrauben",
+        "Gibt mir die anzurein großen Schrauben",
+        "Ich möchte die Anzahl an großen Schrauben erfahren",
+        "Ich möchte die anzahlen großen Schrauben erfahren",
+        "Ich will wissen die für die große Schrauben noch da sind",
+        "Ich will wissen die viele große Schrauben noch da sind",
+        "Wie viele große Schrauben sind voran",
+        "Wie viele große Schrauben sind vorhin",
+        "Überprüfe viele große Schrauben noch vorhanden sind"
+    ],
+    "check_count_kleine_schraube": [
+        "Die wird die Ansel an kleinen Schroben",
+        "Gibt mir die Anzahl einen kleinen Schroben",
+        "Sie sind noch keine Schrauben vorhanden",
+        "Sind noch kleine Schrauben vorhanden",
+        "Sind noch kleine Schrauben vorhanden",
+        "Wie viele kleine Schrauben gibt es",
+        "Wie viele kleine Schrauben gibt es",
+        "Wie viele kleine Schrauben sind noch da",
+        "Wie viele kleine Schrauben sind noch vorhanden",
+        "Überprüfe wie viele kleine Schrauben noch vorhanden sind",
+        "Überprüfe wir wie viele kleine Schrauben noch vorhanden sind"
+    ],
+    "check_count_oberteil": [
+        "Gehen wir die Anzahl an vorhandenen Oberteilen",
+        "Gibt mir die Anzahl an vorhandenen Oberthalen",
+        "Wie viele Oateilig gibt es noch",
+        "Wie viele Oberteile gibt es noch",
+        "Wie viele Oberteile hast du noch",
+        "Überprüfe die Anzahl an Oberteilen",
+        "Überprüfe die Anzahl an Oberteilen"
+    ],
+    "check_count_spitze": [
+        "Check dir wie viele Unterteile noch vorhanden sind",
+        "Check wie viele Unterteile noch vorhanden sind",
+        "Gehen wir die Anzahl an vorhandenen Unterteilen",
+        "Welche Anze einspitzen sind noch da",
+        "Welche Anzeilen Spitzen sind auch da",
+        "Wie viele Spitzen hast du noch",
+        "Wie viele Spitzen hast du noch",
+        "Wie viele Unterteile sind noch da",
+        "Wie viele Unterzeides sind auch da"
+    ],
+    "check_griff": [
+        "Hast du noch drüfe",
+        "Hast du noch grüffeln",
+        "Hast du noch überteile",
+        "Hast es noch Oberteile",
+        "Ist doch ein Griff vorhanden",
+        "Ist noch ein Griff von",
+        "Prüfer ob der Griff da ist",
+        "Sieht noch guffe da",
+        "Sind auch kriffe da",
+        "Wir prüfer ob der Griff da ist"
+    ],
+    "check_große_schraube": [
+        "Checker noch große Schrauben vor anden sind",
+        "Checker ob noch große Schrauben vorhanden sind",
+        "Gibt es noch große Schrauben",
+        "Gibt es noch große Schrauben",
+        "Hast du noch große Schrauben",
+        "Hast du noch große Schrauben",
+        "Ich möchte wissen ob es noch große Schrauben gibt",
+        "Ich möchte wissen ob es noch große Schrauben gibt",
+        "Sind auch große Schrauben von ",
+        "Sind noch große Schrauben vorhanden"
+    ],
+    "check_kleine_schraube": [
+        "Gibt es noch kleine Schrauben",
+        "Gibt es noch kleine Schroben",
+        "Sind noch kllene Schroben da",
+        "Hast du noch klone schruben"
+    ],
+    "check_spitze": [
+        "Gibt es noch Spitzen",
+        "Gibt es noch Spitzen",
+        "Hast du noch Spitzen",
+        "Hast du noch Spitzen",
+        "Ist noch ein Spitz oder",
+        "Ist noch ein Spitze da",
+        "Pröfer ob es noch unterteile gibt",
+        "Prüfer ob es noch unterteile gibt",
+        "Wir sind noch Spitzen vorhanden"
+    ],
+    "drop_all": [
+        "Ach mach einmal alle Schröße",
+        "Füge alle Teile in die Halterung",
+        "Fügt alle Teile in die Haltrung",
+        "Katziere alle Teile in die Halterung",
+        "Mach einmal alle Schritte",
+        "Platz hier alle teilen die Halterung",
+        "Plaziere alle Objekte in die Alterung",
+        "Start ein Durchlauf",
+        "Start einen Durchlauf"
+    ],
+    "drop_griff": [
+        "Ich möchte das so den Griff in die Halterung setzt",
+        "Ich möchte das zu den Griff in die Halterung setzt",
+        "Kannst du den Griff in die Halterung setzen",
+        "Kannst du den Griff in die Haltruung setzen",
+        "Mit Laziere bitte den Griff in die Haltruung",
+        "Pack den Griff in die Mitte",
+        "Packt den Griff in die Mitte",
+        "Platziere bitte den Griff in die Halterung",
+        "Setze den Griff in die Halte oben",
+        "Sitzte den Griff in die Halterung"
+    ],
+    "drop_große_schraube": [
+        "Besätze bitte die große Schraube in die Halterung",
+        "Bitte platziere die große Schraube in die Alterung",
+        "Bitte platziere die große Schraube in die Halterung",
+        "Packen die große Schraube in die Halterung",
+        "Packen die große Schraube in die Halterung",
+        "Packen die große Schraube in die Mitte",
+        "Packen die große Schraube in die Mitte",
+        "Parklarziere die große Schraube in die Alterung",
+        "Platziere die größte Schraube in die Halterung",
+        "Setze bitte die große Schraube in die Haltrung"
+    ],
+    "drop_kleine_schraube": [
+        "Ich möchte das du die keine Schraube in die Halterung pakt",
+        "Ich möchte das so die kleine Schraube in die Halterung pakt",
+        "Ich will das du die kleine Schraube in die Halterung setzt",
+        "Ich will das du die kleine Schraube in die Halterung setzt",
+        "Packet die Keine Schrobe in die Halterung",
+        "Packet die kleine Schrobe in die Halterung",
+        "Platziere die keine Schraube in die Halterung",
+        "Platziere die kleine Schraube in die Haltruung",
+        "Sitzte die kleine Schraube in die Halterung",
+        "Sätze die kleine Schraube in die Halte rum"
+    ],
+    "drop_spitze": [
+        "Ich möchte das Rischpitze in die Mitte setzt",
+        "Ich möchte das zu die Spitze in die Mitte setzt",
+        "Ich will das du die Spitze in die Halterung platzierst",
+        "Ich will das du die Spitze in die Halterung platzierst",
+        "Packen die Spitze in die Halterung",
+        "Pake die Spitze in die Alterung",
+        "Platziere die Spitze in die Halterung",
+        "Plaziere die Spitze in die Halterung",
+        "Sätze die Spitze in die Halterung",
+        "Sätze die Spitze in die Halterung"
+    ],
+    "give_griff": [
+        "Gibt mir den Griff",
+        "Gibt mir den Griff",
+        "Ich möchte bitte den Griff haben",
+        "Ich möchte den Griff haben",
+        "Ich möchte den Griff haben",
+        "Ich möchte ein bisschen den Griff haben",
+        "Ich will den Griff haben",
+        "Ich will den Griff haben",
+        "Reich mir den Griff",
+        "Reich mit den Griff"
+    ],
+    "give_große_schraube": [
+        "Gibt mir die große Schaube",
+        "Ich will das zu mir eine große Schraube gibt",
+        "Ich will das zum mir eine große Schraube gibt's",
+        "Ich will die große Schaube haben",
+        "Ich will die große Schrauber haben",
+        "Kann es du mir die große Schraube geben",
+        "Kannst du mir die große Schraube geben",
+        "Reich mir die große Schraube",
+        "Reich mit die große Schraube"
+    ],
+    "give_kleine_schraube": [
+        "Gibt mir eine kleine Schraube",
+        "Ich benötige eine kleine Schraube",
+        "Ich benötige eine kleine Schrobe",
+        "Ich brauche noch eine kleine Schraube",
+        "Ich brauche noch eine kleine Schraube",
+        "Ich will eine kleine Schaube haben",
+        "Ich will eine kleine Schrobe haben",
+        "Reich mir die keine Schrobe"
+    ],
+    "give_tip_or_bottom": [
+        "Bitte gehen wir die Spitze",
+        "Bitte geht mir die Spitze",
+        "Gibt mir das Unterteil",
+        "Gibt mir das unterteil",
+        "Ich möchte die Spitze haben",
+        "Ich möchte die Spitze haben",
+        "Ich würde gerne das Unterteil haben",
+        "Ich würde gerne das Unterteil haben",
+        "Kannst du mir bitte die Spitze geben",
+        "Kannst du mir bitte die Spitze geben"
+    ],
+    "open_linken_greifer": [
+        "Ich möchte das zu den Linken greifen veröffn ist",
+        "Ich möchte dass du linken greifer öffnest",
+        "Las links los",
+        "Lass das Linkobjekt los",
+        "Lass links los",
+        "Lasst das linken Objekt los",
+        "Öffne bitte den Link greife",
+        "Öffne bitte den Linken greif her",
+        "Öffne den linken Greifer",
+        "Öfter der Link greifer"
+    ],
+    "open_rechten_greifer": [
+        "Ich möchte das für den rechten Greifer öffnest",
+        "Ich möchte das so die rechten greifer öffnest",
+        "Lasst rechts los",
+        "Öffne den richtigen Kreif vor",
+        "Öffne die rechte Seite",
+        "Öffne die rechte Seite",
+        "Öffte den rechten Gräufer"
+    ],
+    "do_next_step": [
+        "Durch Führ der nächsten Schritt",
+        "Durch Schühe den ich will das du weiter machst",
+        "Für den nächsten Schritt aus",
+        "Ich will das du weitermachst",
+        "Mach den nächsten Schritt",
+        "Mach er den nächsten Schritt",
+        "Mach weiter",
+        "Mach weiter",
+        "Nächsten Schritt für den nächsten Schritt aus"
+    ],
+    "offener_modus": [
+        "Aktiviere den offenen Modus",
+        "Aktiviertel offenen Moros",
+        "Ich möchte das zu den offenen Motus startes",
+        "Startet den offenen Modus",
+        "Würdest du den offenen Modus starten"
+    ],
+    "start_application": [
+        "Beginn mit der Anwendung",
+        "Start",
+        "Starten",
+        "Startet die Anwendung",
+        "Startet die Applikation"
+    ],
+    "stop_application": [
+        "Beende die Applikation",
+        "Beendet die Anbindung",
+        "Schließe die Applikation",
+        "Stop",
+        "Stoppe die Anwendung"
+    ],
+    "tell_next_step": [
+        "Was ist der nächste Schritt",
+        "Was muss ich als nächstes machen",
+        "Was muss ich tun",
+        "Wie funktioniert der nächste Schritt",
+        "Wie geht es vor"
+    ]
+}
